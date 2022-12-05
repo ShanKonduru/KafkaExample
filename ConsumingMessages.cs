@@ -2,6 +2,9 @@ using System;
 using Confluent.Kafka;
 using System.Threading;
 
+// https://docs.oracle.com/en-us/iaas/Content/Streaming/Tasks/streaming-kafka-dotnet-client-quickstart.htm
+
+
 namespace OssKafkaConsumerDotnet
 {
     class ConsumingMessages
